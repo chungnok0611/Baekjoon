@@ -9,5 +9,5 @@ int main() {
 	int n;
 	scanf("%d", &n);
 	hanoi(n, 'A', 'B', 'C');//함수호출시 매개변수는 n, 'A', 'B', 'C'을 활용한다.
-	return 0;
+	
 }
